@@ -1,11 +1,11 @@
 # Site settings
 author: Adrian Paz
-title: 
+title: Testing
 header-img: img/home-bg.png
 email: pazadrian08@gmail.com
 copyright_name: Adrian Paz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Test
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  adpaz
